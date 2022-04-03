@@ -1,4 +1,6 @@
 {
+  "itemGroup.testingmod.mythril": "Testing Mod Tab",
+
   "item.testingmod.mythril_ingot": "Mythril Ingot",
   "item.testingmod.mythril_nugget": "Mythril Nugget",
   "item.testingmod.raw_mythril": "Raw Mythril",
