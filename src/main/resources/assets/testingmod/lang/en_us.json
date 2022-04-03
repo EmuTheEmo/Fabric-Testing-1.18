@@ -1,5 +1,11 @@
 {
   "item.testingmod.mythril_ingot": "Mythril Ingot",
   "item.testingmod.mythril_nugget": "Mythril Nugget",
-  "item.testingmod.raw_mythril": "Raw Mythril"
+  "item.testingmod.raw_mythril": "Raw Mythril",
+
+  "block.testingmod.mythril_block": "Mythril Block",
+  "block.testingmod.mythril_ore": "Mythril Ore",
+  "block.testingmod.deepslate_mythril_ore": "Deepslate Mythril Ore",
+  "block.testingmod.nether_mythril_ore": "Nether Mythril Ore",
+  "block.testingmod.raw_mythril_block": "Raw Mythril Block"
 }
