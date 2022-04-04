@@ -11,5 +11,6 @@
   "block.testingmod.mythril_ore": "Mythril Ore",
   "block.testingmod.deepslate_mythril_ore": "Deepslate Mythril Ore",
   "block.testingmod.nether_mythril_ore": "Nether Mythril Ore",
-  "block.testingmod.raw_mythril_block": "Raw Mythril Block"
+  "block.testingmod.raw_mythril_block": "Raw Mythril Block",
+  "block.testingmod.speedy_block": "Speedy Block"
 }
