@@ -1,9 +1,11 @@
 {
   "itemGroup.testingmod.mythril": "Testing Mod Tab",
+  "item.testingmod.dowsing_rod.no_valuables": "No Valuables Found!",
 
   "item.testingmod.mythril_ingot": "Mythril Ingot",
   "item.testingmod.mythril_nugget": "Mythril Nugget",
   "item.testingmod.raw_mythril": "Raw Mythril",
+  "item.testingmod.dowsing_rod": "Dowsing Rod",
 
   "block.testingmod.mythril_block": "Mythril Block",
   "block.testingmod.mythril_ore": "Mythril Ore",
